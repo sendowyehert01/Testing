@@ -10,4 +10,4 @@ console.log(add(2,4));
 console.log(multiply(2,4));
 console.log(divide(2,4));
 
-const buffy = new ShelterDog('Robert', 'bulldog', 12, 'Laguna');
+const buffy = new ShelterDog('Robertttttttttttttttttt', 'bulldog', 12, 'Laguna');
